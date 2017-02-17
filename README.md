@@ -1,2 +1,2 @@
 # shaunsmerling.github.io
-My Persona Page
+My Personal Page
