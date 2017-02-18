@@ -9,18 +9,6 @@
 <li> Contact </li>
 </ul>
 <link href="style.css" type="text/css" rel="stylesheet">
-<style>
-* {
-  font-family: 'Georgia', 'Times', serif;
-}
-a {
-  color: SeaGreen;
-  text-decoration: none;
-}
-img {
-  border-radius: 100%;
-}
-</style>
 <img src= "https://scontent-sea1-1.xx.fbcdn.net/v/t31.0-8/14138103_10209851757634088_2265222917651422033_o.jpg?oh=bb22f5ca94fd54456d98e29ceed5dd0a&oe=5900E15C">
 </body>
 </html>
