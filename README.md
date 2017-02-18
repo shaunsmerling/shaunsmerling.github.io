@@ -1,8 +1,9 @@
-
+<!DOCTYPE Html>
 <html>
 <body>
 <head>
-<link href="/style.css" type="text/css" rel="stylesheet">
+<title> Shaun Peter Smerling </title>
+<link href="style.css" type="text/css" rel="stylesheet">
 </head>
 <h1> Shaun Peter Smerling </h1>
 <p> This will be the personal page of Shaun Peter Smerling </p>
