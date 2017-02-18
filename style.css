@@ -1,8 +1,9 @@
 <style>
-* {
-font-family: 'Times', 'Serif'
+html,body {
+   height: 100%;
+   margin: 0px;
+   padding: 0px;
 }
 img {
-border-radius: 100%;
+  border-radius: 100%px;
 }
-</style>
