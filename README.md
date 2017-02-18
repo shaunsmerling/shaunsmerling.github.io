@@ -2,7 +2,7 @@
 <html>
 <body>
 <head>
-<link href="https://github.com/shaunsmerling/shaunsmerling.github.io/blob/master/style.css" type="text/css" rel="stylesheet">
+<link href="/style.css" type="text/css" rel="stylesheet">
 </head>
 <h1> Shaun Peter Smerling </h1>
 <p> This will be the personal page of Shaun Peter Smerling </p>
